@@ -21,9 +21,20 @@ Manifesto for the modern open geo stack
 
 ## For Data Science
 
-- ...
+### For Training
+
+- Pretrained Model access
+- Training GPUs Resources
+
+### For Data Wrangling
+
 - Query Processing Systems
 - Data Pipelines (ETLs)
+
+### For Inference
+
+- Publish Models to API
+
 
 ## For DevOps
 
