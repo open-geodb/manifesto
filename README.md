@@ -6,7 +6,7 @@ This is a manifesto for the creation of a **modern open source geospatial** stac
 
 The **modern** in the context of a modern open source geospatial stack refers to the demands of distributed systems (e.g. micro services, cloudnative, hybridcloud), big data and machine learning. Traditional GIS has generally not addressed these topics and they have remained in the sphere of computer science.
 
-Although I call this a stack since it has layers where higher layers depend on the lower layers it is in-fact a mix of a stack and achitectural pattern. Since some layers sit adjacent to other layers and may be run in issolation as a service or a microservice
+Although I call this a stack since it has layers where higher layers depend on the lower layers it is in-fact a mix of a stack and [distributed achitectural pattern](https://martinfowler.com/articles/patterns-of-distributed-systems/). Since some layers sit adjacent to other layers and may be run in issolation as a service or a microservice
 
 # Stack Layers
 
